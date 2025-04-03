@@ -1,0 +1,13 @@
+/* Reset default styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #f7fafc;
+}
+
+/* Remove all other styles as they conflict with ChakraUI */
